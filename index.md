@@ -11,6 +11,7 @@
 
 
 <details>
+  <summary>Click me</summary>
   <pre>
    - <strong>children</strong>             : number of children in the family
    - <strong>days_employed</strong>        : total work experience in days
