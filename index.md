@@ -41,11 +41,11 @@ Digital agency focused on providing web services to entrepreneurs.
 <details>
   <summary>Click me</summary>
   
-   Link1
+   >Link1
 
-   Link2
+   >Link2
 
-   Link3
+   >Link3
 
 </details>
 
