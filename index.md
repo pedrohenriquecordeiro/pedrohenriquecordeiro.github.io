@@ -5,7 +5,9 @@ _Data Enginner based in Belo Horizonte, Minas Gerais, Brazil_ <br>
 
 ## 👨🏻‍💻 Technical Experience
 
-**Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Present)_<br>
+**Junior Data Enginner** @ [Banco Mercantil](https://bancomercantil.com.br/Paginas/Home.aspx) _(Jan 2020 - Feb 2022)_<br>
+
+**Mid-Level Data Enginner** @ [Banco Mercantil](https://bancomercantil.com.br/Paginas/Home.aspx) _(Mar 2022 - Present)_<br>
 A Service based company serving Digital Services to US Clients & Pharma Industries (India).
 
 * Leading a team of 5 people (2 Backend, 2 Frontend, 1 Mobile)
