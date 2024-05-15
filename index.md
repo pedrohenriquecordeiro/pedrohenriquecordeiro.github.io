@@ -1,7 +1,7 @@
 # Pedro Jesus
 _Data Enginner based in Belo Horizonte, Minas Gerais, Brazil_ <br>
 
-[Email](mailto:pedrohcordeiroj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/pedrohenriquecordeiro/) / [GitHub]([https://github.com/dr5hn/](https://github.com/pedrohenriquecordeiro)) / [Twitter](https://twitter.com/peddrao)
+[Email](mailto:pedrohcordeiroj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/pedrohenriquecordeiro/) / [GitHub]([https://github.com/dr5hn/](https://github.com/pedrohenriquecordeiro) / [Twitter](https://twitter.com/peddrao)
 
 ## 👨🏻‍💻 Technical Experience
 **Assistent IT Support**  @ [Centro de Computação Cientifica do CEFET-MG](https://www.cefetmg.br/) _(Jan 2019 - Dec 2019)_<br>
