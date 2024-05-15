@@ -4,6 +4,7 @@ _Data Enginner based in Belo Horizonte, Minas Gerais, Brazil_ <br>
 [Email](mailto:gadadarshan@gmail.com) / [Website](https://dr5hn.github.io/) / [LinkedIn](https://www.linkedin.com/in/dr5hn/) / [GitHub](https://github.com/dr5hn/) / [Twitter](https://twitter.com/dr5hn/)
 
 ## 👨🏻‍💻 Technical Experience
+**IT Assistent Support**  @ [Centro de Computação Cientifica do CEFET-MG](https://www.cefetmg.br/) _(Jan 2019 - Dec 2019)_<br>
 
 **Junior Data Enginner** @ [Banco Mercantil](https://bancomercantil.com.br/Paginas/Home.aspx) _(Jan 2020 - Feb 2022)_<br>
 
