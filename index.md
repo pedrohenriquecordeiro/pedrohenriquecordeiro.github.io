@@ -11,6 +11,15 @@ _Data Enginner based in Belo Horizonte, Minas Gerais, Brazil_ <br>
 
 **Mid-Level Data Enginner** @ [Banco Mercantil](https://bancomercantil.com.br/Paginas/Home.aspx) _(Mar 2022 - Present)_<br>
 
+## 👨🏻‍💻 Skills
+
+Python 
+Spark
+Airflow dags
+.net console
+Snowflake
+AWS
+GCP
 
 <details>
   <summary>Click me</summary>
